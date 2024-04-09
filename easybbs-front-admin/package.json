@@ -1,0 +1,25 @@
+{
+  "name": "easybbs-front-admin",
+  "version": "0.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "vite --mode dev",
+    "build": "vite build --mode build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "axios": "^1.6.7",
+    "element-plus": "^2.6.0",
+    "js-md5": "^0.8.3",
+    "sass": "^1.71.1",
+    "sass-loader": "^14.1.1",
+    "vue": "^3.4.15",
+    "vue-cookies": "^1.8.3",
+    "vue-router": "^4.2.5"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^5.0.3",
+    "vite": "^5.0.11"
+  }
+}
